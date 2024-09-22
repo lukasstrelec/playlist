@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qBlEbN3.png",ČT1
+https://sktv.plainrock127.xyz/get.php?x=CT1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HpnGC6A.png",ČT2
+https://sktv.plainrock127.xyz/get.php?x=CT2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUMRFs1.png",ČT24
+https://sktv.plainrock127.xyz/get.php?x=CT24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I2dltZW.png",ČT sport
+https://sktv.plainrock127.xyz/get.php?x=CTsport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pa5rLpA.png",ČT :D
+https://sktv.plainrock127.xyz/get.php?x=CT_D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8mfETB.png",ČT art
+https://sktv.plainrock127.xyz/get.php?x=CTart
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5JiMynW.png",ČT sport Plus
+https://sktv.plainrock127.xyz/get.php?x=CTsportPlus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZHIAAj.png",JOJ Family
+https://live.cdn.joj.sk/live/hls/family-540.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQcx9S2.png",Šlágr Originál
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J9YHDVS.png",Šlágr Muzika
+https://stream-33.mazana.tv/slagr2.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lp0IqDx.png",Šlágr Premium
+https://stream-15.mazana.tv/slagrpremium.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aHT2Nj.png",Prima
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Il7t0bU.png",CNN Prima News
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zuzBucZ.png",Prima Zoom
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOCZc3Y.png",Prima Love
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tQGwvNs.png",Prima STAR
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dn2YxrA.png",Prima Krimi
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QaEakvm.png",Prima MAX
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMHWmcJ.png",Prima Cool
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zX4NTJ5.png",Prima Show
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPmpsnN.png",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGzQFWw.png",Óčko Star
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e731JNS.png",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a6S2Yo4.png",Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9P7ZyFu.png",TN Live
+https://sktv-forwarders.7m.pl/get.php?x=NovaTNLive
+#EXTINF:-1 tvg-logo="https://www.praga2018.cz/wp-content/uploads/logo-prahatv.png",Praha TV
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77ztmd9.png",TV Nova
+http://88.212.15.27/live/nova_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWOlm1x.png",Minimax CZ
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wwptd3.png",Východoceská TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ulfeIwM.png",UTV (Czech Republic)
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
